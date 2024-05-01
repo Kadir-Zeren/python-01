@@ -24,3 +24,5 @@ print('sdfsdfsdfsdf sdf sdfsd fsdf sdfsdf sdf sd/ dsf \
       ')
 
 print('kullanici ismi') # burada isim aliniyor
+
+x = 5 #burada x degeri atandi
