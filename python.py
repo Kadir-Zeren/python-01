@@ -22,3 +22,5 @@ print('bu benim cumlem \tbu ikinci satir')
 print('sdfsdfsdfsdf sdf sdfsd fsdf sdfsdf sdf sd/ dsf \
       dasdasdasd asd asd asd asd asd asd asd asd  \
       ')
+
+print('kullanici ismi') # burada isim aliniyor
